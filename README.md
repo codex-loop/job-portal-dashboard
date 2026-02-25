@@ -1,4 +1,5 @@
-💼 Job Portal Dashboard – Power BI
+💼 Job Portal Dashboard – Power BI 
+
 📌 Overview
 
 An interactive Power BI dashboard that analyzes job market trends including job roles, salaries, companies, locations, and required skills.
