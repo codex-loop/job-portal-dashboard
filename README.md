@@ -1,10 +1,10 @@
-Job Portal Dashboard – Power BI
-Overview
+💼 Job Portal Dashboard – Power BI
+📌 Overview
 
 An interactive Power BI dashboard that analyzes job market trends including job roles, salaries, companies, locations, and required skills.
 The goal is to provide clear insights into hiring patterns and in-demand skills.
 
-Key Insights
+🎯 Key Insights
 
 Total job postings & companies
 
@@ -16,7 +16,7 @@ Most in-demand skills
 
 Location-wise job distribution
 
-Tools Used
+🛠️ Tools Used
 
 Power BI
 
@@ -26,7 +26,7 @@ DAX
 
 Data Modeling
 
-Features
+📊 Features
 
 Interactive filters & slicers
 
@@ -36,7 +36,7 @@ Salary and experience comparison
 
 Skills trend analysis
 
-How to Use
+🚀 How to Use
 
 Download the .pbix file
 
